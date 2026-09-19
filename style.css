@@ -1,0 +1,58 @@
+body {
+    min-height: 100vh;
+    background: linear-gradient(135deg, #eef2ff, #f8fafc 50%, #ecfeff);
+    font-family: Inter, Arial, sans-serif;
+    color: #172033;
+}
+
+.badge-pill {
+    display: inline-block;
+    padding: 9px 15px;
+    border-radius: 50px;
+    background: #e0e7ff;
+    color: #4338ca;
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: .5px;
+}
+
+.app-card {
+    border: 1px solid rgba(148,163,184,.25);
+    border-radius: 22px;
+    background: rgba(255,255,255,.9);
+    box-shadow: 0 20px 55px rgba(15,23,42,.08);
+}
+
+.question {
+    min-height: 150px;
+    resize: vertical;
+    border-radius: 14px;
+    padding: 16px;
+}
+
+.btn {
+    border-radius: 12px;
+    font-weight: 700;
+    padding: 10px 18px;
+}
+
+.answer-box {
+    padding: 20px;
+    background: #f8fafc;
+    border-left: 5px solid #10b981;
+    border-radius: 14px;
+    line-height: 1.8;
+}
+
+.source {
+    padding: 13px;
+    border: 1px solid #e2e8f0;
+    border-radius: 12px;
+    margin-bottom: 9px;
+    background: white;
+}
+
+.score {
+    color: #64748b;
+    font-size: 12px;
+}
