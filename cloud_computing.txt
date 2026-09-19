@@ -1,0 +1,11 @@
+Cloud computing provides computing resources over the internet.
+
+Common cloud service models are Infrastructure as a Service, Platform as a Service and Software as a Service.
+
+Infrastructure as a Service provides virtualized infrastructure such as virtual machines, storage and networks.
+
+Platform as a Service provides a managed environment for application development and deployment.
+
+Software as a Service delivers complete applications through the internet.
+
+Cloud computing provides features such as scalability, availability, monitoring and usage-based pricing. Major cloud providers include AWS, Microsoft Azure and Google Cloud.

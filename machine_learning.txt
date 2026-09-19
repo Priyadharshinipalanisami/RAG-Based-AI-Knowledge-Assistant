@@ -1,0 +1,9 @@
+Machine learning is a branch of artificial intelligence in which computer systems learn patterns from data.
+
+Supervised learning uses labeled training examples. Classification predicts categories, while regression predicts numerical values.
+
+Unsupervised learning works without target labels. Clustering groups similar observations and dimensionality reduction creates a smaller representation of data.
+
+Random Forest is an ensemble algorithm based on multiple decision trees. Each tree receives randomized data and features, and their predictions are combined to produce the final prediction.
+
+Common classification evaluation metrics include accuracy, precision, recall, F1-score and ROC-AUC. Regression can be evaluated using MAE, MSE, RMSE and R-squared.
